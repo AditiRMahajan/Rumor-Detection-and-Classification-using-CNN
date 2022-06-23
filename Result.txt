@@ -1,0 +1,5 @@
+Accuracy of Model is: 93.2%
+Report of Model is: 
+             precision  recall  f1-score  support
+Non-Rumours      0.932   0.932     0.932    500.0
+Rumours          0.932   0.932     0.932    500.0
